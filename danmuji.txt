@@ -1,1 +1,1 @@
-name =danmuji
+name = muji
