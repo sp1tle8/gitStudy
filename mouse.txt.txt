@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 name = gray
-=======
-name = jerry
->>>>>>> my_test_idea
